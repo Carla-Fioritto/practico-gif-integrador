@@ -6,5 +6,7 @@ materia = "Software Factory"
 print(f"Hola, soy {nombre}")
 print(f"Tengo {edad} años")
 print(f"Estoy cursando {materia}")
-print ("hola")
+# Mis hobbies
+hobbies = ["programar", "jugar videojuegos", "escuchar música"]
+print(f"Mis hobbies son: {', '.join(hobbies)}")
 
